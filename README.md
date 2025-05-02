@@ -38,9 +38,3 @@ We applied the **Gaussian Naive Bayes** algorithm to classify customers into chu
 - Pandas, NumPy
 - Scikit-learn
 - Matplotlib, Seaborn
-
-## 🔧 How to Run
-
-1. Clone the repo
-2. Make sure you have the dataset `churn_dataset.xlsx` in the same directory
-3. Run the notebook
